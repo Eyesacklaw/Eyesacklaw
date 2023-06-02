@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eyesacklaw
-- 👀 I’m interested in coding really weird things.
+- 👀 I’m interested in coding and visualising data science, extracting and analysing financial data, and coding games such as a pacman simulation.
 - 🌱 I’m currently learning Python and C++.
 - 📫 How to reach me:
       laww4@stconline.edu.hk
